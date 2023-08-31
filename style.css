@@ -1,0 +1,42 @@
+table, th, td{
+    border-color:rgb(137, 189, 88);
+    color:rgb(186, 252, 124);
+    font-size:x-large;
+    border:2px solid rgb(137, 189, 88);
+}
+h1{
+    color: rgb(216, 252, 183);
+}
+.even{
+    color: rgb(186, 252, 124);
+}
+#odd{
+    color: rgb(112, 185, 44);
+}
+.pagecolor{
+    background-color: rgb(74, 117, 117);
+}
+ul{
+    list-style-type:square;
+}
+li{
+    color: rgb(186, 252, 124);
+}
+p{
+    font-size: x-large;
+}
+#img0{
+    width: 250px;
+}
+#img1{
+    height: 350px;
+}
+#img2{
+    height: 250px;
+}
+#img3{
+    width: 400px;
+}
+#img4{
+    height:250px;
+}
