@@ -40,3 +40,34 @@ p{
 #img4{
     height:250px;
 }
+.headerdiv h1{
+    color:rgb(202, 0, 0);
+    font-family: fantasy;
+    font-size:40px;
+    text-align: center
+    
+}
+.headerdiv h1:hover{
+    color:#97e2fd
+}
+.pagecoloralt{
+    background-color:#fd8a82;
+}
+.mainimg{
+    height:450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
+}
+.description{
+    font-style:oblique;
+    font-size:30px;
+}
+.source{
+    font-size:22px;
+    font-style:italic;
+    text-align: center;
+}
+.mainimg2{
+    height:350
+}
