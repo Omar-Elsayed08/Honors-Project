@@ -4,8 +4,9 @@ table, th, td{
     font-size:x-large;
     border:2px solid rgb(137, 189, 88);
 }
-h1{
+header{
     color: rgb(216, 252, 183);
+    font-size:40px;
 }
 .even{
     color: rgb(186, 252, 124);
@@ -14,7 +15,7 @@ h1{
     color: rgb(112, 185, 44);
 }
 .pagecolor{
-    background-color: rgb(74, 117, 117);
+    background-color: #4a7575;
 }
 ul{
     list-style-type:square;
@@ -72,6 +73,18 @@ p{
     height:350
 }
 
-.t1{{
+.t1{
     text-align:center;
-}}
+}
+.nav-item{
+    background-color:#97e2fd;
+}
+.navbar-brand{
+    background-color:#97e2fd;
+}
+.altnavpage{
+    background-color:#ec372a;
+}
+.alth1, .navbutton1{
+    background-color:#fcc6c2;
+}
